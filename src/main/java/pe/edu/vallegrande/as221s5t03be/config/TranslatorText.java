@@ -17,7 +17,6 @@ import java.io.IOException;
 @Component
 public class TranslatorText {
 
-    /* configuracion del servicio cognitivo */
     /*private static final String key = "<your-translator-key>";
     private static final String location = "<your-resource-location>";*/
 
